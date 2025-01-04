@@ -16,7 +16,7 @@
 
 端末（ターミナル）で次のコマンドを入力して、プログラムを実行します：
 
-’’’python3 highball_abv_calculator.py’’’
+```python3 highball_abv_calculator.py```
 
 ### 2. 入力形式
 プログラムは、標準入力からウィスキーとソーダの量（ml）を入力として受け取ります。ウィスキーとソーダの量をスペースで区切って入力してください。
@@ -57,7 +57,7 @@
 
 主要関数
 
-## 1. calculate_alcohol_concentration(whiskey_amount, total_amount)
+## 1. ```calculate_alcohol_concentration(whiskey_amount, total_amount)```
 
 ウィスキーの量とハイボールの総量からアルコール度数を計算します。
 
