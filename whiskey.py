@@ -1,6 +1,6 @@
-#!/bin/bash
-# SPDX-FileCopyrightText: 2024 平野悠真
-# SPDX-License-Identifier:BSD-3-Clause
+#!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2024 Yuma Hirano
+# SPDX-License-Identifier: BSD-3-Clause
 
 import sys
 
@@ -37,4 +37,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
