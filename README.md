@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
+[![test](https://github.com/katyusha5377/Robosyskadai/actions/workflows/test.yml/badge.svg)](https://github.com/katyusha5377/Robosyskadai/actions/workflows/test.yml)
+
 このプログラムは、ウィスキーとソーダの混合比に基づいて、ハイボールのアルコール度数（ABV）を計算するためのツールです。
 ウィスキーの量とソーダの量を入力すると、ハイボールのアルコール度数を正確に算出します。
 
