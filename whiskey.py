@@ -1,6 +1,6 @@
-#!/usr/bin/env python3
-# SPDX-FileCopyrightText:
-# SPDX-License-Identifier: BSD-3-Clause
+#!/bin/bash
+# SPDX-FileCopyrightText: 2024 平野悠真
+# SPDX-License-Identifier:BSD-3-Clause
 import sys
 
 def calculate_alcohol_concentration(whiskey_amount, total_amount):
