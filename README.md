@@ -61,7 +61,7 @@
 
 主要関数
 
-## 1. ```calculate_alcohol_concentration(whiskey_amount, total_amount)```
+1. ```calculate_alcohol_concentration(whiskey_amount, total_amount)```
 
 ウィスキーの量とハイボールの総量からアルコール度数を計算します。
 
@@ -71,19 +71,17 @@ ABV = (ウィスキーの量 / ハイボールの総量) * 40
 
 ここで、アルコール度数は通常40%のウィスキーを使っている前提となります。
 
-
 2. main()
 
 標準入力からデータを取得し、ウィスキーとソーダの量をパースして、calculate_alcohol_concentration関数を呼び出して結果を計算します。
-
 エラーハンドリングと入力確認もこの関数内で行っています。
 
 
-動作環境
-・テスト済みバージョン: 3.7~3.10
-• Ubuntu 22.04 LTS
+## 動作環境
+### ・テスト済みバージョン: 3.7~3.10
+### ・Ubuntu 22.04 LTS
 
-ライセンス
+## ライセンス
 このプロジェクトは BSD 3-Clause License のもとで公開されています。
 
 © 2024 Yuma Hirano　平野悠真
